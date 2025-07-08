@@ -1,0 +1,51 @@
+.btn-group .btn {
+  font-weight: 600;
+  padding: 0.6rem 1.5rem;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgb(0 0 0 / 0.1);
+  margin-right: 10px;
+}
+
+.btn-group .btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgb(0 0 0 / 0.2);
+}
+
+/* Optional: different gradient background for each button */
+
+#btnKnown {
+  background: linear-gradient(45deg, #4CAF50, #81C784);
+  border: none;
+  color: white;
+}
+#btnKnown:hover {
+  background: linear-gradient(45deg, #388E3C, #66BB6A);
+}
+
+#btnUnknown {
+  background: linear-gradient(45deg, #FF9800, #FFB74D);
+  border: none;
+  color: white;
+}
+#btnUnknown:hover {
+  background: linear-gradient(45deg, #F57C00, #FFA726);
+}
+
+#btnTotal {
+  background: linear-gradient(45deg, #2196F3, #64B5F6);
+  border: none;
+  color: white;
+}
+#btnTotal:hover {
+  background: linear-gradient(45deg, #1976D2, #42A5F5);
+}
+
+#btnCache {
+  background: linear-gradient(45deg, #9C27B0, #BA68C8);
+  border: none;
+  color: white;
+}
+#btnCache:hover {
+  background: linear-gradient(45deg, #7B1FA2, #AB47BC);
+}

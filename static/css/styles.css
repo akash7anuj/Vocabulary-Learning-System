@@ -1,0 +1,59 @@
+/* styles.css */
+
+/* Override Bootstrap font sizes and spacing */
+body {
+  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+h1, .display-5 {
+  font-weight: 600;
+}
+
+main {
+  padding-top: 75px; /* or whatever height your navbar is */
+}
+
+/* Card tweaks */
+.card {
+  border-radius: 0.5rem;
+}
+.card-header {
+  font-weight: 500;
+}
+.list-group-item {
+  font-size: 1rem;
+}
+
+/* Transcript area */
+#transcript {
+  white-space: pre-wrap;
+  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  padding: 1rem;
+  border-radius: 0.25rem;
+}
+
+/* Start button */
+#start-btn {
+  min-width: 180px;
+}
+
+/* Unknown list */
+#unknown-list .list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#unknown-list .word-highlight {
+  font-weight: 500;
+  color: #dc3545; /* Bootstrap danger */
+}
+
+/* Footer (if you add one) */
+footer {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  text-align: center;
+  color: #6c757d;
+  font-size: 0.9rem;
+}

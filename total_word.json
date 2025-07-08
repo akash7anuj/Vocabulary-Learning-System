@@ -1,0 +1,519 @@
+{
+  "hello": {
+    "meaning": "नमस्ते",
+    "example": "Definition: \"Hello!\" or an equivalent greeting."
+  },
+  "miss": {
+    "meaning": "याद",
+    "example": "Definition: A failure to hit."
+  },
+  "you": {
+    "meaning": "आप",
+    "example": "Definition: To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal)."
+  },
+  "do": {
+    "meaning": "करना",
+    "example": "Definition: A party, celebration, social function.\nExample: “We’re having a bit of a do on Saturday to celebrate my birthday..”"
+  },
+  "know": {
+    "meaning": "जानना",
+    "example": "Definition: Knowledge; the state of knowing."
+  },
+  "who": {
+    "meaning": "कौन",
+    "example": "Definition: A person under discussion; a question of which person."
+  },
+  "am": {
+    "meaning": "पूर्वाह्न",
+    "example": "Definition: Before noon."
+  },
+  "i": {
+    "meaning": "मैं",
+    "example": "Definition: The name of the Latin-script letter I.\nExample: “the position of an i-dot (the dot of an i).”"
+  },
+  "my": {
+    "meaning": "मेरा",
+    "example": "Definition: Used to express surprise, shock or amazement.\nExample: “My, what big teeth you have!.”"
+  },
+  "name": {
+    "meaning": "नाम",
+    "example": "Definition: Any nounal word or phrase which indicates a particular person, place, class, or thing.\nExample: “I've never liked the name my parents gave me so I changed it at the age of twenty..”"
+  },
+  "is": {
+    "meaning": "है",
+    "example": "No definition/example found for “is.”"
+  },
+  "manoj": {
+    "meaning": "मनोज",
+    "example": "No definition/example found for “manoj.”"
+  },
+  "this": {
+    "meaning": "यह",
+    "example": "Definition: Something being indicated that is here; one of these."
+  },
+  "me": {
+    "meaning": "मुझे",
+    "example": "Definition: As the direct object of a verb.\nExample: “Can you hear me?.”"
+  },
+  "a": {
+    "meaning": "ए",
+    "example": "Definition: The name of the Latin script letter A/a."
+  },
+  "note": {
+    "meaning": "टिप्पणी",
+    "example": "Definition: (heading) A symbol or annotation."
+  },
+  "time": {
+    "meaning": "समय",
+    "example": "Definition: The inevitable progression into the future with the passing of present and past events.\nExample: “Time stops for nobody.   the ebb and flow of time.”"
+  },
+  "big": {
+    "meaning": "बड़ा",
+    "example": "Definition: Someone or something that is large in stature"
+  },
+  "and": {
+    "meaning": "और",
+    "example": "Definition: In rhythm, the second half of a divided beat."
+  },
+  "learn": {
+    "meaning": "सीखना",
+    "example": "Definition: The act of learning something"
+  },
+  "cooler": {
+    "meaning": "शीतक",
+    "example": "Definition: Having a slightly low temperature; mildly or pleasantly cold."
+  },
+  "good": {
+    "meaning": "अच्छा",
+    "example": "Definition: (of people)"
+  },
+  "bad": {
+    "meaning": "खराब",
+    "example": "Definition: Error, mistake."
+  },
+  "hi": {
+    "meaning": "नमस्ते",
+    "example": "Definition: The word \"hi\" used as a greeting.\nExample: “I didn't even get a hi..”"
+  },
+  "new": {
+    "meaning": "नया",
+    "example": "Definition: Things that are new.\nExample: “Out with the old, in with the new..”"
+  },
+  "word": {
+    "meaning": "शब्द",
+    "example": "Definition: The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)"
+  },
+  "will": {
+    "meaning": "इच्छा",
+    "example": "Definition: (now uncommon or literary) To wish, desire (something).\nExample: “Do what you will..”"
+  },
+  "be": {
+    "meaning": "होना",
+    "example": "No definition/example found for “be.”"
+  },
+  "highlighted": {
+    "meaning": "पर प्रकाश डाला",
+    "example": "Definition: To make prominent; emphasize."
+  },
+  "below": {
+    "meaning": "नीचे",
+    "example": "Definition: In a lower place."
+  },
+  "are": {
+    "meaning": "हैं",
+    "example": "Definition: An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a."
+  },
+  "listening": {
+    "meaning": "सुनना",
+    "example": "Definition: To pay attention to a sound or speech.\nExample: “Please listen carefully as I explain.  I like to listen to music..”"
+  },
+  "speaking": {
+    "meaning": "बोला जा रहा है",
+    "example": "Definition: Used in speaking.\nExample: “one's normal speaking voice.”"
+  },
+  "can": {
+    "meaning": "कर सकना",
+    "example": "Definition: (auxiliary verb, defective) To know how to; to be able to.\nExample: “She can speak English, French, and German.   I can play football.   Can you remember your fifth birthday?.”"
+  },
+  "tell": {
+    "meaning": "कहना",
+    "example": "Definition: A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold."
+  },
+  "what": {
+    "meaning": "क्या",
+    "example": "Definition: (Singlish) Used to contradict an underlying assumption held by the interlocutor."
+  },
+  "your": {
+    "meaning": "आपका",
+    "example": "No definition/example found for “your.”"
+  },
+  "anuj": {
+    "meaning": "Anuj",
+    "example": "this is name of person"
+  },
+  "stop": {
+    "meaning": "रुकना",
+    "example": "Definition: A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.\nExample: “They agreed to meet at the bus stop..”"
+  },
+  "because": {
+    "meaning": "क्योंकि",
+    "example": "Definition: For the reason (that)."
+  },
+  "hearing": {
+    "meaning": "सुनवाई",
+    "example": "Definition: (stative) To perceive sounds through the ear.\nExample: “I was deaf, and now I can hear..”"
+  },
+  "speak": {
+    "meaning": "बोलना",
+    "example": "Definition: A low class bar, a speakeasy."
+  },
+  "microphone": {
+    "meaning": "माइक्रोफ़ोन",
+    "example": "Definition: A device (transducer) used to convert sound waves into a varying electric current; normally fed into an amplifier and either recorded or broadcast."
+  },
+  "ka": {
+    "meaning": "एक प्रकार का",
+    "example": "Definition: A spiritual part of the soul in Egyptian mythology, which survived after death."
+  },
+  "definition": {
+    "meaning": "परिभाषा",
+    "example": "Definition: A statement of the meaning of a word or word group or a sign or symbol (dictionary definitions)."
+  },
+  "baby": {
+    "meaning": "बच्चा",
+    "example": "Definition: A very young human, particularly from birth to a couple of years old or until walking is fully mastered."
+  },
+  "never": {
+    "meaning": "कभी नहीं",
+    "example": "Definition: At no time; on no occasion; in no circumstance.\nExample: “I finally finished, and I never want to do that again..”"
+  },
+  "things": {
+    "meaning": "चीज़ें",
+    "example": "Definition: That which is considered to exist as a separate entity, object, quality or concept."
+  },
+  "that": {
+    "meaning": "वह",
+    "example": "Definition: Something being indicated that is there; one of those."
+  },
+  "example": {
+    "meaning": "उदाहरण",
+    "example": "Definition: Something that is representative of all such things in a group."
+  },
+  "beginners": {
+    "meaning": "शुरुआती",
+    "example": "Definition: Someone who is just starting at something, or has only recently started.\nExample: “I'm new to learning Japanese: I'm just a beginner..”"
+  },
+  "meaning": {
+    "meaning": "अर्थ",
+    "example": "Definition: (of words or symbols) The entity, perception, feeling or concept thereby represented or evoked."
+  },
+  "ing": {
+    "meaning": "इंग",
+    "example": "Definition: A meadow, especially a low meadow near a river; water meadow.\nExample: “Ings, glens, and fens of the Highlands..”"
+  },
+  "pens": {
+    "meaning": "कलम",
+    "example": "Definition: An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.\nExample: “There are two steers in the third pen..”"
+  },
+  "of": {
+    "meaning": "का",
+    "example": "Definition: Expressing distance or motion."
+  },
+  "the": {
+    "meaning": "",
+    "example": "Definition: With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.\nExample: “It looks weaker and weaker, the more I think about it..”"
+  },
+  "highlands": {
+    "meaning": "पहाड़ी इलाक़ा",
+    "example": "Definition: An area of high land."
+  },
+  "paribhasha": {
+    "meaning": "परिभाशा",
+    "example": "No definition/example found for “paribhasha.”"
+  },
+  "in": {
+    "meaning": "में",
+    "example": "Definition: A position of power or influence, or a way to get it.\nExample: “His parents got him an in with the company..”"
+  },
+  "vocabulary": {
+    "meaning": "शब्दावली",
+    "example": "Definition: A usually alphabetized and explained collection of words e.g. of a particular field, or prepared for a specific purpose, often for learning."
+  },
+  "start": {
+    "meaning": "शुरू",
+    "example": "Definition: The beginning of an activity.\nExample: “The movie was entertaining from start to finish..”"
+  },
+  "reading": {
+    "meaning": "पढ़ना",
+    "example": "Definition: To look at and interpret letters or other information that is written.\nExample: “Have you read this book?.”"
+  },
+  "begging": {
+    "meaning": "भीख माँगना",
+    "example": "Definition: The act of one who begs."
+  },
+  "being": {
+    "meaning": "प्राणी",
+    "definition": "A living creature.",
+    "example": ""
+  },
+  "kuchh": {
+    "meaning": "कुछ तो",
+    "definition": "",
+    "example": ""
+  },
+  "na": {
+    "meaning": "ना",
+    "definition": "Not.",
+    "example": ""
+  },
+  "bola": {
+    "meaning": "बोला",
+    "definition": "A throwing weapon made of weights on the ends of a cord.",
+    "example": ""
+  },
+  "han": {
+    "meaning": "हान",
+    "definition": "",
+    "example": ""
+  },
+  "flat": {
+    "meaning": "समतल",
+    "definition": "An area of level ground.",
+    "example": ""
+  },
+  "bnao": {
+    "meaning": "बानो",
+    "definition": "",
+    "example": ""
+  },
+  "taking": {
+    "meaning": "लापरवाह",
+    "example": "Definition: To get into one's hands, possession or control, with or without force.\nExample: “I'll take that plate off the table..”"
+  },
+  "urmila": {
+    "meaning": "उर्मिला",
+    "example": "No definition/example found for “urmila.”"
+  },
+  "we": {
+    "meaning": "हम",
+    "example": "Definition: (personal) The speakers/writers, or the speaker/writer and at least one other person (not the person being addressed). (This is the exclusive we.)"
+  },
+  "bhi": {
+    "meaning": "भी",
+    "example": "No definition/example found for “bhi.”"
+  },
+  "like": {
+    "meaning": "पसंद",
+    "example": "Definition: (usually in the plural) Something that a person likes (prefers).\nExample: “Tell me your likes and dislikes..”"
+  },
+  "it": {
+    "meaning": "यह",
+    "example": "Definition: One who is neither a he nor a she; a creature; a dehumanized being."
+  },
+  "es-hi-me": {
+    "meaning": "मुझे",
+    "example": "Definition: As the direct object of a verb.\nExample: “Can you hear me?.”"
+  },
+  "en-hi-hello": {
+    "meaning": "नमस्ते",
+    "example": "Definition: \"Hello!\" or an equivalent greeting."
+  },
+  "en-hi-mera": {
+    "meaning": "मेरा",
+    "example": "No definition/example found for “mera.”"
+  },
+  "en-hi-naam": {
+    "meaning": "का नाम ले",
+    "example": "Definition: The taking of property for the purpose of compensation."
+  },
+  "en-en-mera": {
+    "meaning": "mera",
+    "example": "Meaning: No definition/example found for “mera.”"
+  },
+  "en-en-naam": {
+    "meaning": "naam",
+    "example": "Meaning (noun):\nDescription: The taking of property for the purpose of compensation.\nDescription: Goods taken in such a manner."
+  },
+  "en-hi-my": {
+    "meaning": "मेरा",
+    "example": "Meaning: No definition/example found for “my.”"
+  },
+  "en-hi-name": {
+    "meaning": "नाम",
+    "example": "Meaning: No definition/example found for “name.”"
+  },
+  "en-hi-is": {
+    "meaning": "है",
+    "example": "Meaning: No definition/example found for “is.”"
+  },
+  "en-hi-anuj": {
+    "meaning": "अनुज",
+    "example": "Meaning: No definition/example found for “anuj.”"
+  },
+  "en-en-my": {
+    "meaning": "my",
+    "example": "Meaning (interjection):\nDescription: Used to express surprise, shock or amazement.\nExample: “My, what big teeth you have!.”"
+  },
+  "en-en-name": {
+    "meaning": "name",
+    "example": "Meaning (noun):\nDescription: Any nounal word or phrase which indicates a particular person, place, class, or thing.\nExample: “I've never liked the name my parents gave me so I changed it at the age of twenty..”\nDescription: Reputation.\nDescription: An abusive or insulting epithet.\nExample: “Stop calling me names!.”\nDescription: A person (or legal person).\nDescription: Those of a certain name; a race; a family.\nDescription: A unique identifier, generally a string of characters.\nDescription: An investor in Lloyds of London bearing unlimited liability.\nDescription: Authority.\nExample: “Halt in the name of the law!.”"
+  },
+  "en-en-is": {
+    "meaning": "is",
+    "example": "Meaning: No definition/example found for “is.”"
+  },
+  "en-en-anuj": {
+    "meaning": "anuj",
+    "example": "Meaning: No definition/example found for “anuj.”"
+  },
+  "en-fr-my": {
+    "meaning": "mon",
+    "example": "Meaning: No definition/example found for “my.”"
+  },
+  "en-fr-name": {
+    "meaning": "nom",
+    "example": "Meaning: No definition/example found for “name.”"
+  },
+  "en-fr-is": {
+    "meaning": "est",
+    "example": "Meaning: No definition/example found for “is.”"
+  },
+  "en-fr-anuj": {
+    "meaning": "anuj",
+    "example": "Meaning: No definition/example found for “anuj.”"
+  },
+  "en-fr-select": {
+    "meaning": "sélectionner",
+    "example": "Meaning: No definition/example found for “select.”"
+  },
+  "en-fr-spoken": {
+    "meaning": "parlé",
+    "example": "Meaning: No definition/example found for “spoken.”"
+  },
+  "en-fr-translation": {
+    "meaning": "traduction",
+    "example": "Meaning: No definition/example found for “translation.”"
+  },
+  "en-fr-language": {
+    "meaning": "langue",
+    "example": "Meaning: No definition/example found for “language.”"
+  },
+  "en-es-hello": {
+    "meaning": "Hola",
+    "example": "Meaning: No definition/example found for “hello.”"
+  },
+  "en-hi-click": {
+    "meaning": "क्लिक",
+    "example": "Meaning: No definition/example found for “click.”"
+  },
+  "en-hi-start": {
+    "meaning": "शुरू",
+    "example": "Meaning: No definition/example found for “start.”"
+  },
+  "en-hi-reading": {
+    "meaning": "पढ़ना",
+    "example": "Meaning: No definition/example found for “reading.”"
+  },
+  "en-hi-and": {
+    "meaning": "और",
+    "example": "Meaning: No definition/example found for “and.”"
+  },
+  "en-hi-beacon": {
+    "meaning": "प्रकाश",
+    "example": "Meaning: No definition/example found for “beacon.”"
+  },
+  "en-hi-speaking": {
+    "meaning": "बोला जा रहा है",
+    "example": "Meaning: No definition/example found for “speaking.”"
+  },
+  "es-en-mora": {
+    "meaning": "blackberry",
+    "example": "Significado: No definition/example found for “mora.”"
+  },
+  "fr-en-mora": {
+    "meaning": "Mora",
+    "example": "Sens: No definition/example found for “mora.”"
+  },
+  "en-es-my": {
+    "meaning": "mi",
+    "example": "Meaning (interjection):\nDescription: Used to express surprise, shock or amazement.\nExample: “My, what big teeth you have!.”"
+  },
+  "en-es-name": {
+    "meaning": "nombre",
+    "example": "Meaning (noun):\nDescription: Any nounal word or phrase which indicates a particular person, place, class, or thing.\nExample: “I've never liked the name my parents gave me so I changed it at the age of twenty..”\nDescription: Reputation.\nDescription: An abusive or insulting epithet.\nExample: “Stop calling me names!.”\nDescription: A person (or legal person).\nDescription: Those of a certain name; a race; a family.\nDescription: A unique identifier, generally a string of characters.\nDescription: An investor in Lloyds of London bearing unlimited liability.\nDescription: Authority.\nExample: “Halt in the name of the law!.”"
+  },
+  "es-en-nena": {
+    "meaning": "chick",
+    "example": "Significado: No definition/example found for “nena.”"
+  },
+  "en-hi-translation": {
+    "meaning": "अनुवाद",
+    "example": "Meaning (noun):\nDescription: The act of translating, in its various senses:\nDescription: The product or end result of an act of translating, in its various senses."
+  },
+  "en-hi-language": {
+    "meaning": "भाषा",
+    "example": "Meaning (noun):\nDescription: A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.\nExample: “Deaf and mute people communicate using languages like ASL..”\nDescription: The ability to communicate using words.\nExample: “the gift of language.”\nDescription: A sublanguage: the slang of a particular community or jargon of a particular specialist field.\nExample: “legal language;   the language of chemistry.”\nDescription: The expression of thought (the communication of meaning) in a specified way; that which communicates something, as language does.\nExample: “body language;   the language of the eyes.”\nDescription: A body of sounds, signs and/or signals by which animals communicate, and by which plants are sometimes also thought to communicate.\nDescription: A computer language; a machine language.\nDescription: Manner of expression.\nDescription: The particular words used in a speech or a passage of text.\nExample: “The language he used to talk to me was obscene..”\nDescription: Profanity.\n\nMeaning (verb):\nDescription: To communicate by language; to express in language."
+  },
+  "en-hi-then": {
+    "meaning": "तब",
+    "example": "Meaning (conjunction):\nDescription: Used in comparisons, to introduce the basis of comparison.\nExample: “she's taller than I am;  she found his advice more witty than helpful;  we have less work today than we had yesterday;  We had no choice than to return home.”\nDescription: (obsolete outside dialectal, usually used with for) Because; for.\n\nMeaning (noun):\nDescription: That time\nExample: “It will be finished before then..”\n\nMeaning (adjective):\nDescription: Being so at that time.\n\nMeaning (adverb):\nDescription: (temporal location) At that time.\nExample: “He was happy then..”\nDescription: (temporal location) Soon afterward.\nExample: “He fixed it, then left..”\nDescription: (sequence) Next in order; in addition.\nExample: “There are three green ones, then a blue one..”\nDescription: In that case.\nExample: “If it’s locked, then we’ll need the key..”\nDescription: (sequence) At the same time; on the other hand.\nExample: “That’s a nice shirt, but then, so is the other one..”\nDescription: (affirmation) Used to contradict an assertion."
+  },
+  "en-hi-a": {
+    "meaning": "ए",
+    "example": "Meaning (noun):\nDescription: The name of the Latin script letter A/a."
+  },
+  "en-hi-syllabus": {
+    "meaning": "पाठ्यक्रम",
+    "example": [
+      "No definition/example found for “syllabus.” (Error: 404 Client Error: Not Found for url: https://api.dictionaryapi.dev/api/v2/entries/hi/syllabus)"
+    ]
+  },
+  "en-hi-spoken": {
+    "meaning": "बोला",
+    "example": [
+      "No definition/example found for “spoken.” (Error: 404 Client Error: Not Found for url: https://api.dictionaryapi.dev/api/v2/entries/hi/spoken)"
+    ]
+  },
+  "en-hi-transform": {
+    "meaning": "परिवर्तन",
+    "example": [
+      "No definition/example found for “transform.” (Error: 404 Client Error: Not Found for url: https://api.dictionaryapi.dev/api/v2/entries/hi/transform)"
+    ]
+  },
+  "website": {
+    "meaning": "वेबसाइट",
+    "example": "Definition: A collection of interlinked web pages on the World Wide Web that are typically accessible from the same base URL and reside on the same server."
+  },
+  "namaste": {
+    "meaning": "नमस्टे",
+    "example": "Definition: The traditional greeting when saying the word namaste, with folded hands and a slight bow."
+  },
+  "halo": {
+    "meaning": "प्रभामंडल",
+    "example": "Definition: A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere."
+  },
+  "alors": {
+    "meaning": "अलोरस",
+    "example": "No definition/example found for “alors.”"
+  },
+  "translation": {
+    "meaning": "अनुवाद",
+    "example": "Part of Speech: noun\nDefinition: The act of translating, in its various senses:"
+  },
+  "language": {
+    "meaning": "भाषा",
+    "example": "Part of Speech: noun\nDefinition: A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.\nExample: “Deaf and mute people communicate using languages like ASL..”"
+  },
+  "spoken": {
+    "meaning": "बोला",
+    "example": "Part of Speech: verb\nDefinition: To communicate with one's voice, to say words out loud.\nExample: “I was so surprised I couldn't speak..”"
+  },
+  "de": {
+    "meaning": "डे",
+    "example": "Part of Speech: verb\nDefinition: To do."
+  },
+  "uno": {
+    "meaning": "संयुक्त राष्ट्र संघ",
+    "example": "No definition/example found for “uno.”"
+  }
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Vocabulary Detector</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/static/css/styles.css">
+
+</head>
+
+<body class="bg-light text-dark">
+
+    <nav class="navbar navbar-expand-lg navbar-dark shadow-sm w-100 bg-dark position-fixed" style="z-index: 1000;">
+        <div class="container">
+            <a class="navbar-brand" href="/">Read & Learn</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navMenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/dashboard">Dashboard</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container mb-5 ">
+        <div class="text-center mb-4">
+            <h1 class="display-5">Speak & Learn Vocabulary</h1>
+            <p class="lead">
+                Select spoken and translation languages, then click “Start Reading” and begin speaking. <br />New words
+                will be highlighted below.
+            </p>
+
+            <div class="row justify-content-center mb-3">
+                <div class="col-md-3">
+                    <label for="source-lang" class="form-label">Spoken Language</label>
+                    <select id="source-lang" class="form-select" aria-label="Source Language">
+                        <option value="en-US" selected>English (US)</option>
+                        <option value="es-ES">Spanish</option>
+                        <option value="fr-FR">French</option>
+                        <option value="hi-IN">Hindi</option>
+                        <!-- <option value="zh-CN">Chinese (Simplified)</option> -->
+                        <!-- Add more languages as desired -->
+                        <!-- (English, Spanish, French, Hindi -->
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <label for="target-lang" class="form-label">Translation Language</label>
+                    <select id="target-lang" class="form-select" aria-label="Target Language">
+                        <option value="hi" selected>Hindi</option>
+                        <option value="en">English</option>
+                        <option value="es">Spanish</option>
+                        <option value="fr">French</option>
+                        <!-- <option value="zh-CN">Chinese (Simplified)</option> -->
+                        <!-- Add more languages as desired -->
+                    </select>
+                </div>
+            </div>
+
+            <button id="start-btn" class="btn btn-lg btn-success">Start Reading</button>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-header bg-white">
+                        <h5 class="mb-0">Live Transcript</h5>
+                    </div>
+                    <div class="card-body">
+                        <pre id="transcript" class="mb-0"
+                            style="min-height:200px; white-space: pre-wrap;">Your speech will appear here...</pre>
+                    </div>
+                </div>
+
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-header bg-white">
+                        <h5 class="mb-0">Recent 10 Unknown Words</h5>
+                    </div>
+                    <ul id="recent10" class="list-group list-group-flush"></ul>
+                    <!-- <li class="list-group-item">No recent words yet.</li> -->
+
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card mb-4 h-100 shadow-sm">
+                    <div class="card-header bg-white">
+                        <h5 class="mb-0">Unknown Words</h5>
+                    </div>
+                    <ul id="unknown-list" class="list-group list-group-flush">
+                        <li class="list-group-item">No unknown words yet.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="/static/js/script.js"></script>
+</body>
+
+</html>

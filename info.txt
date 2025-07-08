@@ -1,0 +1,2 @@
+1. speech to text based on source lang
+2. translation eng-hindi

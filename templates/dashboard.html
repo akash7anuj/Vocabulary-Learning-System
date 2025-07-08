@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Word Manager</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+    <link rel="stylesheet" href="/static/css/dashboard.css" />
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark shadow-sm w-100 bg-dark position-fixed" style="z-index: 1000;">
+        
+        <div class="container">
+            <a class="navbar-brand" href="/">Read & Learn</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navMenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/dashboard">Dashboard</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <main class="pt-5 bg-light text-dark">
+        <div class="container py-4">
+            <h1 class="mb-4">Word Manager</h1>
+
+            <div class="btn-group mb-4" role="group" aria-label="Word type buttons">
+                <button id="btnKnown" class="btn btn-primary">
+                    <i class="bi bi-check-circle-fill me-1"></i> Known Words
+                </button>
+                <button id="btnUnknown" class="btn btn-warning">
+                    <i class="bi bi-question-circle-fill me-1"></i> Unknown Words
+                </button>
+                <button id="btnTotal" class="btn btn-info">
+                    <i class="bi bi-bar-chart-fill me-1"></i> Total Words
+                </button>
+                <button id="btnCache" class="btn btn-secondary">
+                    <i class="bi bi-archive-fill me-1"></i> Cached Words
+                </button>
+
+            </div>
+
+            <div id="contentArea"></div>
+
+            <!-- Modal for View/Edit -->
+            <div class="modal fade" id="wordModal" tabindex="-1" aria-labelledby="wordModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <form id="editForm">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="wordModalLabel">Word Info</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                    aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <input type="hidden" id="modalWord" />
+                                <div class="mb-3">
+                                    <label for="modalHindi" class="form-label">Hindi</label>
+                                    <input type="text" class="form-control" id="modalHindi" />
+                                </div>
+                                <div class="mb-3">
+                                    <label for="modalDescription" class="form-label">Description</label>
+                                    <textarea class="form-control" id="modalDescription" rows="3"></textarea>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Examples (one per line)</label>
+                                    <textarea class="form-control" id="modalExamples" rows="4"></textarea>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-success">
+                                    Save Changes
+                                </button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                                    Close
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/dashboard.js"></script>
+</body>
+
+</html>
