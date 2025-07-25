@@ -1,2 +1,5 @@
+gtts
+requests
+pathlib
 gunicorn
 flask
