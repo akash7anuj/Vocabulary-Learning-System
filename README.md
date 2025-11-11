@@ -174,10 +174,7 @@ The app functions as a voice-based vocabulary builder using real-time speech rec
 - [ ] Better caching with persistent DB (e.g., SQLite)
 
 ## 🧑‍💻 Author
-
-Made with ❤️ by [Your Name]  
-GitHub: [https://github.com/yourname](https://github.com/yourname)
+Made with ❤️ by ANUJ KUMAR SINGH  
 
 ## 📜 License
-
 MIT License — Free for personal or educational use.
